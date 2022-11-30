@@ -65,7 +65,7 @@
                     <img src="profile.jpeg" alt="Profile Picture of ACM" style="width: 200px ; 
                     border-radius: 30%;">
             
-                    <h1 class="name"> Aung Cham Myae </h1>
+                    <h1 class="name"> <span id="myName"> Aung Cham Myae </span> </h1>
                     <h4> 6411325 </h4>
                     <p> A student? </p>
             
@@ -90,6 +90,25 @@
         <h1> A gamer </h1>
         <p> I wish I have more time for games COPIUM </p>
     </div>
+
+    <button onclick="changeName()"> Change Name </button>
+
+
+
+
+    <script>
+
+
+        function changeName() {
+            //change the name
+            console.log("Button clicked")
+            var span = document.getElementById("myName");
+            span.innerHTML = "ACM";
+
+            }
+
+        
+    </script>
 
 
 
