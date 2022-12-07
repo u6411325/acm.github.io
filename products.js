@@ -72,7 +72,7 @@ function loadData() {
     grossElem.innerHTML = sum
 
     let vatElem = document.getElementById("vatID")
-    vatElem.innerHTML = Math.ceil(vat)-1
+    vatElem.innerHTML = Math.round(vat).toFixed(2)
 
     let netElem = document.getElementById("netID")
     netElem.innerHTML = net
