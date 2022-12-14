@@ -23,6 +23,7 @@ var products = [
         quantity: 1,
         PPU: 100000
     }
+    
 ]
 
 function loadData() {
@@ -72,7 +73,7 @@ function loadData() {
     grossElem.innerHTML = sum
 
     let vatElem = document.getElementById("vatID")
-    vatElem.innerHTML = Math.round(vat).toFixed(2)
+    vatElem.innerHTML = Math.round(vat).toFixed(0)
 
     let netElem = document.getElementById("netID")
     netElem.innerHTML = net

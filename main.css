@@ -28,5 +28,9 @@
 }
 
 .product_table tfoot {
-    background-color: beige;
+    background-color:beige;
+}
+
+.icon {
+    width: 1em;
 }
