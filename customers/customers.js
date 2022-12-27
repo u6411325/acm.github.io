@@ -52,7 +52,7 @@ $(document).ready(function () {
         
         for(let d in data){
             let dataStr = `<tr>
-                <td><img style="width: 1.5em;" src='/delete.png' onclick='deleteCustomer("${d}")'>${data[d].name}</td>
+                <td><img style="width: 1.5em;" src='/customers/delete.png' onclick='deleteCustomer("${d}")'>${data[d].name}</td>
                 <td>${data[d].email}</td>
                 <td>${data[d].phone}</td>
             </tr>`
