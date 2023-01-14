@@ -33,7 +33,7 @@ function addToCart() {
         quantity: $('#qty').val(),
         ppu: $('#ppu').val(),
     }
-    
+
 
     // Clear existing items in the table
     // let productList = document.getElementById("productList")
@@ -74,7 +74,7 @@ function loadData() {
 function loadDataOld() {
 
     // $('#productBody').html('<tr><td>xxx</td><td>xxx</td><td>xxx</td><td>xxx</td></tr>')
-    
+
     let productList = document.getElementById("productList")
     let gross = 0
     for (let p in products) {

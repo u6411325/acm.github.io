@@ -1,4 +1,4 @@
-.product_table {
+/* .product_table {
     border: 1px solid black;
     border-spacing: 0;
 }
@@ -12,7 +12,7 @@
 .product_table tbody td {
     border-left: 1px solid black;
     border-bottom: 1px solid black ;
-}
+} */
 
 .center {
     margin-left: auto;
@@ -27,10 +27,10 @@
     text-align: right;
 }
 
-.product_table tfoot {
+/* .product_table tfoot {
     background-color:beige;
-}
+} */
 
-.icon {
+/* .icon {
     width: 1em;
-}
+} */

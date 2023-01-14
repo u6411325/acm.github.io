@@ -78,4 +78,3 @@ function loadData() {
     let netElem = document.getElementById("netID")
     netElem.innerHTML = net
 }
-
