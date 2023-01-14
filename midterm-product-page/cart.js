@@ -60,7 +60,7 @@ function loadData() {
     for (let i in products) {
         let redundant = false;
         for (let j in updatedArr) {
-            if (products[i].item === updatedArr[j].item && products[i].ppu === updatedArr[j].ppu) {
+            if (products[i].name === updatedArr[j].name && products[i].ppu === updatedArr[j].ppu) {
 
                 //add up qty
                 updatedArr[j].quantity = parseInt(updatedArr[j].quantity) + parseInt(products[i].quantity);
