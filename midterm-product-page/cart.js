@@ -65,7 +65,6 @@ function loadData() {
                 //add up qty
                 updatedArr[j].quantity = parseInt(updatedArr[j].quantity) + parseInt(products[i].quantity);
 
-
                 //add up discounts
                 updatedArr[j].discount = parseInt(updatedArr[j].discount) + parseInt(products[i].discount)
                 redundant = true;
