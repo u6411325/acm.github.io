@@ -1,4 +1,4 @@
-# GPA Calculator
+![App Screenshot](https://github.com/u6411325/u6411325.github.io/blob/main/screenshot/Header.png?raw=true)
 
 This web page calculates your cumulative GPA, semester GPA and tells you a story about your academic journey by using line charts, progress circle and stuffs.
 
