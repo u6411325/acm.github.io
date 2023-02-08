@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[679],{7462:function(t,n,r){function e(){return e=Object.assign?Object.assign.bind():function(t){for(var n=1;n<arguments.length;n++){var r=arguments[n];for(var e in r)Object.prototype.hasOwnProperty.call(r,e)&&(t[e]=r[e])}return t},e.apply(this,arguments)}r.d(n,{Z:function(){return e}})}}]);
+//# sourceMappingURL=component---src-pages-my-nav-js-69e2ecf6f80a6cc6083d.js.map

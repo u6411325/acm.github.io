@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[813],{7180:function(a,e,t){t.r(e);var r=t(7294),s=t(6495),u=t(3148);u.kL.register(u.jn,u.uw,u.f$,u.od),e.default=function(){return r.createElement("div",null,r.createElement(s.x1,{data:{labels:["May 11","May 12","May 13","May 14","May 15","May 16"],datasets:[{data:[1,4,2,4,5,6]}]}}))}}}]);
+//# sourceMappingURL=component---src-pages-chart-js-cbb48c70b23b9020954b.js.map
