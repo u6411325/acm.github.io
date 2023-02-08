@@ -1,4 +1,17 @@
 
+# GPA Calculator
+
+This web page calculates your cumulative GPA, semester GPA and tells you a story about your academic journey by using line charts, progress circle and stuffs.
+
+## Deployment
+
+To deploy this project run following code in the root folder
+
+```bash
+  npm run develop
+```
+
+
 ## Screenshot Demo
 
 The design is actually very human. I don't think I need to explain some simple functionalities like this. But I just saw the message from Ajarn Chayapol and he wants us to include readme with screenshots so there you go :D
@@ -42,3 +55,15 @@ I also added some circular progress bars so that you can feel good or bad about 
 And that's it, I really hope I get full score for this :3
 
 Please Ajarn Chayapol, if you're reading this, I spent unresonable amount of time, sweat and sleep 😴 😴
+
+## Authors
+
+- [@Aung Cham Myae](https://github.com/u6411325)
+
+
+## Tech Stack
+
+**Client:** React, Bootstrap, Chakara, Chart.js
+
+
+
