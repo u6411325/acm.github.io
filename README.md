@@ -1,4 +1,3 @@
-
 # GPA Calculator
 
 This web page calculates your cumulative GPA, semester GPA and tells you a story about your academic journey by using line charts, progress circle and stuffs.
@@ -11,11 +10,9 @@ To deploy this project run following code in the root folder
   npm run develop
 ```
 
-
 ## Screenshot Demo
 
 The design is actually very human. I don't think I need to explain some simple functionalities like this. But I just saw the message from Ajarn Chayapol and he wants us to include readme with screenshots so there you go :D
-
 
 First, please choose your Major to add courses.
 
@@ -25,7 +22,7 @@ Selected Major wil be shown there
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/SelectMajor.png)
 
-After selecting Major, you're ready to add courses into the table. First, go to this section 
+After selecting Major, you're ready to add courses into the table. First, go to this section
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/AddCourse.png)
 
@@ -35,14 +32,11 @@ When you click "Add Course" button, it will get pushed into the table which look
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/Table.png)
 
-
-
 There you can see your semester, course code, course, credit and the grade you got. Whenever you added something by accident, just click the delete icon beside grade and it will get deleted.
 
 This webpage will not accept duplicated courses since it doesn't make any sense duhh?
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/Duplicate.png)
-
 
 To reflect on your grades during your academic career, I've added a line chart (actually did that for bonus score which wasn't that hard anyways)
 
@@ -60,10 +54,6 @@ Please Ajarn Chayapol, if you're reading this, I spent unresonable amount of tim
 
 - [@Aung Cham Myae](https://github.com/u6411325)
 
-
 ## Tech Stack
 
 **Client:** React, Bootstrap, Chakara, Chart.js
-
-
-
