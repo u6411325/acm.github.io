@@ -42,7 +42,7 @@ To reflect on your grades during your academic career, I've added a line chart (
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/Linechart.png)
 
-I also added some circular progress bars so that you can feel good or bad about your grade and see how far you've come in your bachelor degree. I've research how many credits we need in order to graduate and I've found out that it's 120 credits. That means when you reach 120 credits, the ring will close and Hurray! congrats on your shiny new bachelor degree! 🥳🥳🎉🎉
+I also added some circular progress bars so that you can feel good or bad about your grade and see how far you've come in your bachelor degree. I've research how many credits we need in order to graduate and I've found out that it's 132 credits for both CS and IT majors. That means when you reach 132 credits, the ring will close and Hurray! congrats on your shiny new bachelor degree! 🥳🥳🎉🎉
 
 ![App Screenshot](https://raw.githubusercontent.com/u6411325/u6411325.github.io/046c10cd8072719f4e31ad887ce92ddf673b16b4/screenshot/GPAandCredits.png)
 
